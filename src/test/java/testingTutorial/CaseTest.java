@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.IdentityHashMap;
 import java.util.List;
 
-public class CaseTester {
+public class CaseTest {
 	//** Lecturer vs Student Contractual Violation **//
 	@Test
 	public void LectureEqualsInvalidTest()
